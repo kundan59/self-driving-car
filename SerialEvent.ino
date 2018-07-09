@@ -8,8 +8,7 @@
  A good test for this is to try it with a GPS receiver
  that sends out NMEA 0183 sentences.
 
- Created 9 May 2011
- by Tom Igoe
+ 
 
  This example code is in the public domain.
 
